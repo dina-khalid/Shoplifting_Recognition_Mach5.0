@@ -63,7 +63,8 @@ My team Wandenreich meaning made it to the highest score on the final leaderboar
 
 <div align="center">
 
-[![Dina Khalid](https://github.com/dina-khalid.png?size=100)](https://github.com/dina-khalid) [![Mina Safwat](https://github.com/mena5800.png?size=100)](https://github.com/mena5800) [![Omnia Sayed](https://github.com/omniaSayed.png?size=100)](https://github.com/omniaSayed)
+[![Dina Khalid](https://github.com/dina-khalid.png?size=100)](https://github.com/dina-khalid) [![Mina Safwat](https://github.com/mena5800.png?size=100)](https://github.com/mena5800) 
+
 
 [Dina Khalid](https://github.com/dina-khalid) | [Mina Safwat](https://github.com/mena5800) | [Omnia Sayed](https://github.com/omniaSayed)
 
